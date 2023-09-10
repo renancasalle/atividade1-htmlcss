@@ -1,0 +1,27 @@
+.b1 {
+    background-color: #eb346b;
+    width: 500px;
+    height: 500px;
+  }
+  .b2 {
+    background-color: #141414;
+    width: 25%;
+    height: 25%;
+  }
+  .b3 {
+    background-color: rgb(72, 81, 244);
+    width: 60%;
+    height: 30vh;
+  }
+  .b4 {
+    background-color: rgb(255, 76, 11);
+    width: 80vw;
+    height: 15%;
+  }
+  .title11 {
+    color: black;
+    background-color: rgb(7, 110, 41);
+    font-size: 25px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+  }
